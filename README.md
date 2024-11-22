@@ -16,9 +16,9 @@ I am a certified Electrotechnician from [CEFET-MG](https://www.curvelo.cefetmg.b
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue&color=blue
-)](mailto:riquelme3m@outlook.com)
+)](mailto:luistieres@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue&color=FFF
-)](https://www.linkedin.com/in/riquelme-batista-389b37218/)
+)](https://www.linkedin.com/in/luis-tieres-16026019b/)
 
 
 
